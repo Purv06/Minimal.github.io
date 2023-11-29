@@ -1,0 +1,54 @@
+[
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Games.jpg",
+		"collections": "Games"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Objects.jpg",
+		"collections": "Object"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Scenery.jpg",
+		"collections": "Scenery"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Tech.jpg",
+		"collections": "Tech"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Emoji.jpg",
+		"collections": "Emoji"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Vehicles.jpg",
+		"collections": "Vehicle"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Gradient.jpeg",
+		"collections": "Gradient"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/MiniWorld.jpg",
+		"collections": "MiniWorld"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Sky%20%26%20Space.jpg",
+		"collections": "Sky%20%26%20Space"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Natural.jpg",
+		"collections": "Natural"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Toys.jpg",
+		"collections": "Toys"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Artistic.jpg",
+		"collections": "Artistic"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/Category/Amoled.jpg",
+		"collections": "Amoled"
+	}
+]
