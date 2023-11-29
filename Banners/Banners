@@ -1,10 +1,14 @@
 [
 	{
 	"link": "",
-	"banner": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/ZZZBanners/Minimal%20Walls%20Coming%20Soon.jpg"
+	"banner": "https://purv06.github.io/Minimal.github.io/Banners/Minimal%20Walls%20iOS.jpg"
+	},
+	{
+	"link": "https://apps.apple.com/app/id6470642703",
+	"banner": "https://purv06.github.io/Minimal.github.io/Banners/Fauna%20Walls%20iOS.jpg"
 	},
 	{
 	"link": "",
-	"banner": "https://raw.githubusercontent.com/Purv06/WonderWalls.json/main/ZZZBanners/WallFAB%20Coming%20Soon.jpg"
+	"banner": "https://purv06.github.io/Minimal.github.io/Banners/WallFAB%20Coming%20Soon.jpg"
 	}
 ]
